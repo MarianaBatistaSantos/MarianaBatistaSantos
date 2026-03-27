@@ -1,10 +1,12 @@
 name: Generate Snake
 
 on:
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write 
+  contents: write
 
 jobs:
   generate:
@@ -15,7 +17,11 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: MarianaBatistaSantos
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+          color_snake: pink
+          color_dots: "#ffe4ec,#ffc0cb,#ff69b4,#ff1493,#c71585"
 
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v3
