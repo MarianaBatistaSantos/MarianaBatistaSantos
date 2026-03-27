@@ -1,4 +1,4 @@
-<!-- HEADER ROSA MAIS FORTE -->
+<!-- HEADER ROSA FORTE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:ff69b4&height=220&section=header&text=Mariana%20Batista%20dos%20Santos&font=Press+Start+2P&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
@@ -43,7 +43,7 @@ With **C1-level English proficiency** and international academic experience in C
 ## 🌸 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MarianaBatistaSantos&theme=default&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=MarianaBatistaSantos&theme=rose-pine&hide_border=true&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4"/>
 </p>
 
 ---
