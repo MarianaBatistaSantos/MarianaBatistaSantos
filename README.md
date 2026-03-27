@@ -65,7 +65,7 @@ With **C1-level English proficiency** and international academic experience in C
 ## 🐍 Contribution Snake (Pink Theme)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarianaBatistaSantos/MarianaBatistaSantos/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/MarianaBatistaSantos/MarianaBatistaSantos/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
